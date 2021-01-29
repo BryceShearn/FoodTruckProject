@@ -31,8 +31,6 @@
 
 ### Lessons Learned
 
-* I am having a really rough time pulling everything together. I've tried using agile work flow, Visual Paradigm and While i understand the majority of the content individually when it comes time to create a new project with nothing to work off of I can't seem to find a place to start. I study at least 20 hours on top of the course work reviewing information passed. I just cant seem to put it all together in the grand scheme of things. I will work on finding new ways to construct flow-processes.
-
 * Being able to separate classes allows for easily locating and separating aspects of programs. When coupling this aspect using constructors this allows for fixes to be easily located, pin-pointed, and addressed without having to dig for issues as they arise. If future modifications are required in a program constructors can be modified easily as they are pre-established.
 
 # FoodTruckProject
